@@ -29,7 +29,7 @@
 【手机本地部署酒馆教程-哔哩哔哩】 
 https://b23.tv/Ma0ovDW
 
-### 代码 开🔮↓
+- 代码 开🔮↓
 ```javascript
 curl -O https://raw.githubusercontent.com/hopingmiao/termux_using_Claue/main/tisac.sh && chmod +x tisac.sh && ./tisac.sh
 ```
@@ -70,28 +70,28 @@ cd ~/SillyTavern && git pull && npm install && node server.js
 
 ### 💎手动代码 七步 要🔮（💎开头的任选一个就行）
 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
-### 输入①
+- 输入①
 ```javascript
 pkg update -y
 ```
-### 输入②
+- 输入②
 ```javascript
 pkg install git -y
 ```
-### 输入③
+- 输入③
 ```javascript
 pkg install nodejs -y
 ```
-### 输入④
+- 输入④
 ```javascript
 node --version  
 npm --version
 ```
-### 输入⑤
+- 输入⑤
 ```javascript
 git clone https://github.com/SillyTavern/SillyTavern -b release
 ```
-### 输入⑥
+- 输入⑥
 ```javascript
 cd SillyTavern
 bash start.sh
