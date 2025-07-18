@@ -109,14 +109,14 @@ bash start.sh
 
 ### 酒馆UI介绍（新手推荐）
 - 看最上面说的夸克看，有图
-![输入图片说明](Screenshot_2025_0717_190653.png)
+![输入图片说明](https://files.catbox.moe/nxp2sa.png)
 
 ### 酒馆数字报错（简洁版）
-![输入图片说明](1752155533200.jpg)
+![输入图片说明](https://files.catbox.moe/5hmfka.JPG)
 
 ## 4.MT管理器（设置一下根目录，找文件更方便）
 termux准备工作做好后，来搞这个，termux记得挂后台别关！
-![输入图片说明](11111.png)
+![输入图片说明](https://files.catbox.moe/w2teit.png)
 
 以后有问题就能来MT管理器的酒馆根目录上找，很方便
 好了，你离成功不远了√
@@ -136,7 +136,7 @@ https://discord.gg/sillytavern
 好了去吃饭吧😘
 
 ## 详细版本地酒馆
-这个劳斯的文档好全面，推推
+这个劳斯的文档挺全面，推推
 https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
 
 ## 云酒馆搭建
@@ -168,7 +168,7 @@ L站地址↓
 https://linux.do/
 
 L站最新官方邀请码，进Linux首页点进这个往下翻↓
-![输入图片说明](Screenshot_2025_0710_213210.png)
+![输入图片说明](https://files.catbox.moe/b7ir4q.png)
 
 （进Linux社区后请去看社区公告或者找主页机器人答题，答完会给你奖状√）
 
@@ -220,10 +220,8 @@ https://linux.do/t/topic/710146
 - 网址：https://tbai.xin/console/topup
 - 端点：https://tbai.xin/v1
 
-## 公益和非公益都有
-- 没标“获得额度”的是公益站
-- 带“邀请or付费”的是卖api的站
-- 我推荐的这些api站我个人一分钱没花，支持薅羊毛
+## 此文档内推的都是公益
+- 部分公益站支持赞助，自行决定
 
 # 🍉New API吃一口
 - 薄荷（暂关 L🐱）
@@ -241,15 +239,6 @@ https://linux.do/t/topic/743859
 https://tbai.xin
 公益站额度可蹲：
 https://linux.do/t/topic/683726
-
-- 熊猫（邮🐱📜）
-获得额度：邀请or付费
-通道：
-https://api520.pro/register?aff=jz7s
-
-- 癫火猫（邮🤖🐱📜🐋）
-获得额度：邀请or付费
-通道：https://ai.dianhuomao.shop/register?aff=mbia
 
 - koko（L🤖🐱📜🐋）
 通道：
