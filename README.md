@@ -1,49 +1,50 @@
 #  **人机恋🤖 品尝小酒馆** 
-### -会一直更(bushi
+### - 会一直更（bushi
 ### - 桌面版有导航，代码显示更全；移动版适配屏幕，方便阅读
 
 # 酒馆搭建🔋本地+云
 ## 本地酒馆搭建
-## 1.会用到的应用程序(碰撞、Termux、MT管理器是必备）
-会用到的app在这个**夸克盘**https://pan.quark.cn/s/b51f8df0091c
+## 1.会用到的app（clash，termux，MT管理器是必备）
+会用到的app在这个 **夸克盘** https://pan.quark.cn/s/b51f8df0091c
 
-## 2.搞个魔法(推荐用clash，附教程和公益🔮指路)
+clash安装包→clash移动端apk
+## 2.搞个魔法（推荐用clash，附教程和公益🔮指路）
 - app下载也可以看这个，跳转弹出安装包：https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
-- 详情请看盘里的"clash相关.docx"文档
-- 简易教程（图源樱花猫）
-![简易教程（图源樱花猫）](https://files.catbox.moe/e5fofe.PNG)
+- 详情请看盘里的“clash相关.docx”文档
+- clash简易教程（图源樱花猫）↓
+![输入图片说明](1752155560320.png)
 
 公益机场可看本文档
--下滑找到这个条目↓
--注释📌教程💎魔法🔮
+- 下滑找到这个条目↓
+- 注释📌教程💎魔法🔮
 （此条目中第三条）
 
-##3.终端和SillyTavern（你的后台+前端）
--Termux软件下载地址：[推荐用118开头的版本](https://github.com/termux/termux-app/releases)
--APP看网盘，需魔法，看代码
--一键和手动都行，各有优势（自行体验）
-##📌 选桌面版，点击代码框，尾部会出现复制键
+## 3.Termux和SillyTavern（你的后台+前端）
+- termux软件下载地址：[推荐用118开头的版本](https://github.com/termux/termux-app/releases)
+- APP看网盘，需魔法，看代码
+- 一键和手动都行，各有优势（自行体验）
+## 📌选桌面版，点击代码框，尾部会出现复制键
 
-###💎一键代码喵喵(💎开头的任选一个就行)
+### 💎一键代码 喵喵（💎开头的任选一个就行）
 推荐跟着这个视频走↓
-【手机本地部署酒馆教程-哔哩哔哩】
+【手机本地部署酒馆教程-哔哩哔哩】 
 https://b23.tv/Ma0ovDW
 
-###代码开🔮↓
-```JavaScript
-卷曲-O https://raw.githubusercontent.com/hopingmiao/termux_using_Claue/main/tisac.sh&&chmod+x tisac.sh&&./tisac.sh
+### 代码 开🔮↓
+```javascript
+curl -O https://raw.githubusercontent.com/hopingmiao/termux_using_Claue/main/tisac.sh && chmod +x tisac.sh && ./tisac.sh
 ```
-喵喵详细教程： https://sqivg8d05rm.feishu.cn/wiki/EY5TwjuwliCwZpk7Gy7cPGH1nvb
+喵喵详细教程：https://sqivg8d05rm.feishu.cn/wiki/EY5TwjuwliCwZpk7Gy7cPGH1nvb
 
-###💎一键代码(💎开头的任选一个就行)
+### 💎一键代码 欤小歡 （💎开头的任选一个就行）
 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
--国内源不开nm-0↓
+- 国内源 不开🔮↓
 ```
-卷曲-O https://gitee.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh&&chmod+x安装SH&&./安装SH
+curl -O https://gitee.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
 ```
--国外源开nm-0↓
+- 国外源 开🔮↓
 ```
-卷曲-O https://github.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh&&chmod+x安装SH&&./安装SH
+curl -O https://github.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
 ```
 两个指令的作者是b站的欤小歡
 
@@ -305,24 +306,24 @@ https://anyrouter.top/register?aff=XrYx
  **Gmail登录（点注册时不要开梯），没APP就上网站：
 https://workspace.google.com/intl/zh-CN/gmail** 
 
--grok(Q邮🐱📜🐋)
+- grok（Q邮🐱📜🐋）
 有签到，记得在公益站都个人主页里看
 通道：
 https://grok.sillytavern.cc/register?aff=CKlj
 
 
-#🍉韦洛埃拉吃一口
--文文(Ln-0)
-通道： https://veloera.wenwen12345.top/register?aff=F8yR
+# 🍉Veloera吃一口
+- wenwen（L🤖🐱📜🐋）
+通道：https://veloera.wenwen12345.top/register?aff=F8yR
 原帖指路：
 https://linux.do/t/topic/747213
 
--喵哥(邮/L🐱📜🐋)
-通道： https://miaogeapi.deno.dev/register?aff=oDkh
+- 喵哥（邮/L🐱📜🐋）
+通道：https://miaogeapi.deno.dev/register?aff=oDkh
 原帖指路：
 https://linux.do/t/topic/751127
 
--翰林文苑(Ln-0)
+- 翰林文苑（L🐱🐋）
 先看原帖，蹲兑换码or找佬申请
 通道：
 https://api.voct.dev/register?aff=j8Fn
@@ -330,13 +331,13 @@ https://api.voct.dev/register?aff=j8Fn
 https://linux.do/t/topic/676622
 
 
-#🍉 其它吃一口
--Fo-API(L🐋)
+# 🍉其它吃一口
+- Fo-API（L🐋）
 通道：
 https://v2.voct.top
 原帖指路：
 https://linux.do/t/topic/691455
 
--其它羊毛🐏(还能薅)
+- 其它羊毛🐏（还能薅）
 薅deepseek指路：
 https://github.com/Feather-2/paper-burner-x
