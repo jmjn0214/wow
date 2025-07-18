@@ -9,7 +9,8 @@
 
 ##2.搞个魔法(推荐用clash，附教程和公益🔮指路)
 -app下载也可以看这个，跳转弹出安装包：https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
--详情请看盘里的"碰撞相关.docx"文档
+-详情请看盘里的"clash相关.docx"文档
+-简易教程（图源樱花猫）
 ![简易教程（图源樱花猫）](https://files.catbox.moe/e5fofe.PNG)
 
 公益机场可看本文档
