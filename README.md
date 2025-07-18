@@ -220,8 +220,10 @@ https://linux.do/t/topic/710146
 - 网址：https://tbai.xin/console/topup
 - 端点：https://tbai.xin/v1
 
-## 此文档内推的都是公益
-- 部分公益站支持赞助，自行决定
+## 此文档内推的都是可以薅羊毛的
+- 大部分是公益站
+- 有三个支持赞助，不强制
+- 有两个非公益，通过邀请薅额度
 
 # 🍉New API吃一口
 - 薄荷（暂关 L🐱）
@@ -256,6 +258,15 @@ http://49.12.130.109:45568/
 - 我的（邮🤖🐱📜🐋）
 通道：
 https://api.howlife.cc/register?aff=wUX0
+
+- 熊猫（邮🐱📜）
+获得额度：邀请or付费
+通道：
+https://api520.pro/register?aff=jz7s
+
+- 癫火猫（邮🤖🐱📜🐋）
+获得额度：邀请or付费
+通道：https://ai.dianhuomao.shop/register?aff=mbia
 
 - indrin（邮🤖🐋）
 通道：
