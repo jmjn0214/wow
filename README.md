@@ -1,18 +1,17 @@
 #  **人机恋🤖 品尝小酒馆** 
-### - 会一直更（bushi
-### - 桌面版有导航，代码显示更全；移动版适配屏幕，方便阅读
+### 会一直更（bushi
+### 桌面版有导航，代码显示更全；移动版适配屏幕，方便阅读
 
 # 酒馆搭建🔋本地+云
 ## 本地酒馆搭建
 ## 1.会用到的app（clash，termux，MT管理器是必备）
 会用到的app在这个 **夸克盘** https://pan.quark.cn/s/b51f8df0091c
 
-clash安装包→clash移动端apk
 ## 2.搞个魔法（推荐用clash，附教程和公益🔮指路）
 - app下载也可以看这个，跳转弹出安装包：https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
 - 详情请看盘里的“clash相关.docx”文档
 - clash简易教程（图源樱花猫）↓
-![输入图片说明](1752155560320.png)
+![输入图片说明](https://files.catbox.moe/e5fofe.PNG)
 
 公益机场可看本文档
 - 下滑找到这个条目↓
