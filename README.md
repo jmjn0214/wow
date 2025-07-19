@@ -5,7 +5,10 @@
 # 酒馆搭建🔋本地+云
 ## 本地酒馆搭建
 ## 1.会用到的app（clash，termux，MT管理器是必备）
-会用到的app在这个 **夸克盘** https://pan.quark.cn/s/b51f8df0091c
+- clash请返回九九的聚合页：vlink.cc/jmjn
+- termux在本文档和聚合页都有
+- MT管理器在教程第5步（可提前下也可跟着教程步骤下）
+- 酒馆UI介绍和个人在用的实惠梯可看 **夸克盘** https://pan.quark.cn/s/b51f8df0091c
 
 ## 2.搞个魔法（推荐用clash，附教程和公益🔮指路）
 - app下载也可以看这个，跳转弹出安装包：https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
