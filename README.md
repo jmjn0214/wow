@@ -115,8 +115,9 @@ bash start.sh
 ![输入图片说明](https://files.catbox.moe/5hmfka.JPG)
 
 ## 4.MT管理器（设置一下根目录，找文件更方便）
-termux准备工作做好后，来下这个
+termux准备工作做好后，来下这个，两个都行，看你自己
 MT官网：https://mt2.cn/
+MT破/解版：https://pan.quark.cn/s/bd521e3693c4
 termux记得挂后台别关！
 ![输入图片说明](https://files.catbox.moe/w2teit.png)
 
