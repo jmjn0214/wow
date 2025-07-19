@@ -298,7 +298,7 @@ https://linux.do/t/topic/767037
 通道：
 https://anyrouter.top/register?aff=XrYx
 
-- Qins（邮 🐋+部分🐱）
+- Qins（暂关邮 🐋🐱）
 半公益，部分模型免费使用
 通道：
 https://anyrouter.top/register?aff=XrYx
