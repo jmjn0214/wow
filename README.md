@@ -196,7 +196,7 @@ https://linux.do/t/topic/424429/253
 https://linux.do/t/topic/710146
 - 月佬（跳转序号后复制网址导入URL）：
 [①](https://wanmeiwl3.xyz/gywl/f454fc0cd34faef11783de0a8be4382c?flag=clashmeta)[②](https://yjjd.yunjijd.xyz/api/v1/client/subscribe?token=ee613c4480e152cfee0b6c9dc682999d)[③](https://52pokemon.xz61.cn/api/v1/client/subscribe?token=a7d4ca03debe575cbc363d4c8078acd9)[④](https://qea.278986.xyz/api/v1/client/subscribe?token=c737c4ce20a56d84b559cc4911e93e45)[⑤](http://8.138.34.87:3389/saccess/3c05082fcf2842cca2790bb5dbc2b911)
-附月佬薅🐏教程：[一号羊毛](//https://lcndkivn2rxh.feishu.cn/wiki/XSTGwPXXdiHp0JkabKDc05MLn3b)[二号羊毛](https://lcndkivn2rxh.feishu.cn/wiki/LyAKwPuB1iFlRYkuEwQcaRHFnAe)
+附月佬薅🐏教程：[一号羊毛](https://lcndkivn2rxh.feishu.cn/wiki/XSTGwPXXdiHp0JkabKDc05MLn3b)[二号羊毛](https://lcndkivn2rxh.feishu.cn/wiki/LyAKwPuB1iFlRYkuEwQcaRHFnAe)
 
 ## GitHub注册
 地址：https://github.com/
