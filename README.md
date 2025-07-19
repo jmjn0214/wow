@@ -228,8 +228,9 @@ https://linux.do/t/topic/710146
 - 端点：https://tbai.xin/v1
 
 ## 此文档内推的都是可以薅羊毛的
-- 大部分是公益站/半公益
+- 大部分是公益站
 - 有三个支持赞助，不强制要求
+- 有两个半公益，已标注，部分模型免费使用
 - 有两个非公益，已标注，可通过邀请薅额度
 
 # 🍉New API吃一口
@@ -267,12 +268,12 @@ http://49.12.130.109:45568/
 https://api.howlife.cc/register?aff=wUX0
 
 - 熊猫（邮🐱📜）
-（非公益）获得额度：邀请or付费
+非公益，获得额度：邀请or付费
 通道：
 https://api520.pro/register?aff=jz7s
 
 - 癫火猫（邮🤖🐱📜🐋）
-（非公益）获得额度：邀请or付费
+非公益，获得额度：邀请or付费
 通道：https://ai.dianhuomao.shop/register?aff=mbia
 
 - indrin（邮🤖🐋）
