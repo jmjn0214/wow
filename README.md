@@ -153,6 +153,9 @@ https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
 VPS 部署 ClewdR+酒馆
 https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
 
+### 类脑知识库酒馆搭建教程
+https://wiki.xn--35zx7g.org/
+
 很全√
 # 注释📌教程💎魔法🔮
 ## emoji+注释（必看1）
