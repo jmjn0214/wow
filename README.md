@@ -148,7 +148,7 @@ https://discord.gg/sillytavern
 这个劳斯的文档挺全面，推推
 https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
 
-## 云酒馆搭建
+# 云酒馆搭建
 水秋喵劳斯的教程↓
 VPS 部署 ClewdR+酒馆
 https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
