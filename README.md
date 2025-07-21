@@ -156,8 +156,15 @@ https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
 
 ### 类脑知识库酒馆搭建教程
 https://wiki.xn--35zx7g.org/
-
 很全√
+
+# 关于薅gemini官key的羊毛
+- 条件：Google账号，开🔮
+- 提取key的地址：https://aistudio.google.com/app/apikey
+- 关于key的轮询，这里我写了一个教程，有三种轮询：
+https://gcnjcayqobfd.feishu.cn/wiki/TMafwyirei4JtxkvonVcQLqgnqg
+- 轮询教程，预览图：
+![图](https://i.postimg.cc/GprRHSp1/IMG-20250722-021004.jpg)
 # 注释📌教程💎魔法🔮
 ## emoji+注释（必看1）
 （文档为手工整理，如有遗漏那就如有）
