@@ -232,14 +232,12 @@ https://linux.do/t/topic/710146
 - 网址：https://tbai.xin/console/topup
 - 端点：https://tbai.xin/v1
 
-## 此文档内推的都是可以薅羊毛的
-- 大部分是公益站
+## 此文档内推的都是带公益性质的
 - 有三个支持赞助，不强制要求
 - 有两个半公益，已标注，部分模型免费使用
-- 有两个非公益，已标注，可通过邀请薅额度
 
 # 🍉New API吃一口
-- 薄荷（暂关 L🐱）
+- 薄荷（L🐱）
 通道：
 https://x666.me/register?aff=AAKD
 原帖指路：
@@ -261,7 +259,7 @@ https://kokoai.de/register?aff=cB67
 原帖指路：
 https://linux.do/t/topic/725945
 
-- 月亮（暂关🤖🐱📜🐋）
+- 月亮（🤖🐱📜🐋）
 双站点，可选保底or签到
 🐧👗：
 733012645
@@ -271,15 +269,6 @@ http://49.12.130.109:45568/
 - 我的（邮🤖🐱📜🐋）
 通道：
 https://api.howlife.cc/register?aff=wUX0
-
-- 熊猫（邮🐱📜）
-非公益，获得额度：邀请or付费
-通道：
-https://api520.pro/register?aff=jz7s
-
-- 癫火猫（邮🤖🐱📜🐋）
-非公益，获得额度：邀请or付费
-通道：https://ai.dianhuomao.shop/register?aff=mbia
 
 - indrin（邮🤖🐋）
 通道：
