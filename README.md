@@ -110,9 +110,6 @@ bash start.sh
 ### 💎一键代码 详 要🔮（💎开头的任选一个就行）
 [一键代码点击跳转](https://wiki.xn--35zx7g.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?__cf_chl_rt_tk=_T0hYIZ7mJhsSg5zVCVcT4cHaIdVIgH4ko8GNkZKoUE-1751425165-1.0.1.1-JiEiZ79tMh0x4xz1JkEupuFYrlkjccAu6aSPwltfc3Q)
 
- **推两个xhs写教程的老师：** 
- **@木之本芝士 @老婆宝** 
-
 ### 酒馆UI介绍（新手推荐）
 - 看最上面说的夸克盘，有图
 ![输入图片说明](https://files.catbox.moe/nxp2sa.png)
