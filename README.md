@@ -126,7 +126,8 @@ termux准备工作做好后，来下这个，两个都行，看你自己
 2. MT破/解版：https://pan.quark.cn/s/bd521e3693c4
 - termux记得挂后台别关！
 ![输入图片说明](https://files.catbox.moe/w2teit.png)
-
+- 没看到sillytavern文件夹不要慌，不是bug，请在这个里面找找
+![](https://i.postimg.cc/Yqdxmc96/267-20250722013131.png)
 以后有问题就能来MT管理器的酒馆根目录上找，很方便
 好了，你离成功不远了√
 
