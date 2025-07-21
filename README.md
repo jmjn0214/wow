@@ -292,8 +292,8 @@ https://free-llm.cups.moe/register?aff=2pu0
 原帖指路：
 https://linux.do/t/topic/767037
 
-- Any Router（L📜）
-官转，记得看公告
+- Any Router（Git/L📜）
+claude code官转，记得看公告
 通道：
 https://anyrouter.top/register?aff=XrYx
 
