@@ -14,7 +14,6 @@
 ## 2.搞个魔法（推荐用clash，附教程和公益🔮指路以及绿茶官网
 ### clash安装包：
 https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
-- 详情请看盘里的“clash相关.docx”文档
 - clash简易教程↓
 ![输入图片说明](https://i.postimg.cc/cCRgzGrg/257-20250719195649.png)
 - 公益魔法在文档靠下↓
