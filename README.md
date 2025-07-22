@@ -270,10 +270,6 @@ https://linux.do/t/topic/725945
 签到站通道：
 http://49.12.130.109:45568/
 
-- 我的（邮🤖🐱📜🐋）
-通道：
-https://api.howlife.cc/register?aff=wUX0
-
 - indrin（邮🤖🐋）
 通道：
 https://llm.indrin.cn/register?aff=iD1Z
