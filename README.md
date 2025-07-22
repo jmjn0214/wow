@@ -243,7 +243,7 @@ https://linux.do/t/topic/710146
 
 ## 此文档内推的都是带公益性质的
 - 有三个支持赞助，不强制要求
-- 有两个半公益，已标注，部分模型免费使用
+- 有一个半公益，已标注，部分模型免费使用
 
 # 🍉New API吃一口
 - 薄荷（L🐱）
@@ -340,11 +340,6 @@ https://linux.do/t/topic/676622
 https://v2.voct.top
 原帖指路：
 https://linux.do/t/topic/691455
-
-- OneRouter（Git/Gmail🐱🐋）
-半公益，部分模型免费使用，支持零元玩
-通道：
-https://app.onerouter.pro
 
 - 其它羊毛🐏（还能薅）
 薅deepseek指路：
