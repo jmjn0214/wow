@@ -264,7 +264,7 @@ https://linux.do/t/topic/683726
 签到站通道：
 http://49.12.130.109:45568/
 
-- indrin（邮🤖🐋）
+- LLM（邮🤖🐋）
 通道：
 https://llm.indrin.cn/register?aff=iD1Z
 
@@ -290,6 +290,10 @@ https://anyrouter.top/register?aff=XrYx
 半公益，部分模型免费使用，支持零元玩
 通道：
 https://anyrouter.top
+
+- Lingki（邮🐱）
+通道：
+https://lingkigame.info
 
 
 # 🍉VoAPI吃一口
