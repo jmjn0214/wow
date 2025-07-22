@@ -298,9 +298,9 @@ claude code官转，记得看公告
 https://anyrouter.top/register?aff=XrYx
 
 - Qins（暂关邮🐋🐱）
-半公益，部分模型免费使用
+半公益，部分模型免费使用，支持零元玩
 通道：
-https://anyrouter.top/register?aff=XrYx
+https://anyrouter.top
 
 
 # 🍉VoAPI吃一口
@@ -344,9 +344,9 @@ https://v2.voct.top
 https://linux.do/t/topic/691455
 
 - OneRouter（Git/Gmail🐱🐋）
-半公益，部分模型免费使用
+半公益，部分模型免费使用，支持零元玩
 通道：
-https://app.onerouter.pro/login?aff=xKlq
+https://app.onerouter.pro
 
 - 其它羊毛🐏（还能薅）
 薅deepseek指路：
