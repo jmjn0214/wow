@@ -9,7 +9,6 @@
 - 魔法推荐clash，绿茶也可，聚合页：vlink.cc/jmjn
 - termux在本文档和聚合页都有
 - MT管理器在教程第5步（可提前下也可跟着教程步骤下）
-- 酒馆UI介绍和个人在用的实惠梯可看 **夸克盘** https://pan.quark.cn/s/b51f8df0091c
 
 ## 2.搞个魔法（推荐用clash，附教程和公益🔮指路以及绿茶官网
 ### clash安装包：
@@ -109,17 +108,13 @@ bash start.sh
 ### 💎一键代码 详 要🔮（💎开头的任选一个就行）
 [一键代码点击跳转](https://wiki.xn--35zx7g.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?__cf_chl_rt_tk=_T0hYIZ7mJhsSg5zVCVcT4cHaIdVIgH4ko8GNkZKoUE-1751425165-1.0.1.1-JiEiZ79tMh0x4xz1JkEupuFYrlkjccAu6aSPwltfc3Q)
 
-### 酒馆UI介绍（新手推荐）
-- 看最上面说的夸克盘，有图
-![输入图片说明](https://files.catbox.moe/nxp2sa.png)
-
 ### 酒馆数字报错（简洁版）
 ![输入图片说明](https://files.catbox.moe/5hmfka.JPG)
 
 ## 4.MT管理器（设置一下根目录，找文件更方便）
 termux准备工作做好后，来下这个，两个都行，看你自己
 1. MT官网：https://mt2.cn/
-2. MT破/解版：https://pan.quark.cn/s/bd521e3693c4
+2. MT破/解版：https://pan.quark.cn/s/ce9123d9a1ff
 - termux记得挂后台别关！
 ![输入图片说明](https://files.catbox.moe/w2teit.png)
 - 没看到sillytavern文件夹不要慌，不是bug，请在这个里面找找
@@ -129,9 +124,10 @@ termux准备工作做好后，来下这个，两个都行，看你自己
 
 ## 5.Discord（社区共建，大概是吃饭聚集地）
 吃饭（预设、美化、世界书、插件、角色卡等）可以来这里瞅瞅，需魔法
-- APP安装失败就用chrome等国外浏览器打开网页版↓
+- 用chrome等国外浏览器打开网页版↓
 https://discord.com/
-（官网有安装包）
+（官网有下载入坑）
+- 下载失败就用夸克网盘：https://pan.quark.cn/s/a258b94f0f71
 
 官方邀请码：
 - 旅程（推荐√）↓
