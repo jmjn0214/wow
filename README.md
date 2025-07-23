@@ -148,7 +148,7 @@ https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
 
 ### 类脑知识库酒馆搭建教程
 https://wiki.xn--35zx7g.org/
-很全√
+很全，手机端，pc端，云端都有√
 
 # 关于薅gemini官key的羊毛
 - 条件：Google账号，开🔮
