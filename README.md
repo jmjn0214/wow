@@ -287,6 +287,11 @@ claude code官转，记得看公告
 通道：
 https://anyrouter.top/register?aff=XrYx
 
+- PI-OH（Git/L📜）
+claude code官转，记得看公告
+通道：
+https://a-generic.be-a.dev/register?aff=P2Gq
+
 - Qins（暂关邮🐋🐱）
 半公益，部分模型免费使用，支持零元玩
 通道：
