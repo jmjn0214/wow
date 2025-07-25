@@ -58,14 +58,11 @@ https://wiki.xn--35zx7g.org/
 【手机本地部署酒馆教程-哔哩哔哩】 
 https://b23.tv/Ma0ovDW
 
-- 代码 开🔮↓
-```javascript
-curl -O https://raw.githubusercontent.com/hopingmiao/termux_using_Claue/main/tisac.sh && chmod +x tisac.sh && ./tisac.sh
-```
 喵喵详细教程：https://sqivg8d05rm.feishu.cn/wiki/EY5TwjuwliCwZpk7Gy7cPGH1nvb
 
-### 💎一键代码 欤小歡 （💎开头的任选一个就行）
-每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
+### 💎一键代码 欤歡 （💎开头的任选一个就行）
+- 两个指令的作者是b站的欤小歡
+- 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
 - 国内源 不开🔮↓
 ```
 curl -O https://gitee.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
@@ -74,7 +71,6 @@ curl -O https://gitee.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && c
 ```
 curl -O https://github.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
 ```
-两个指令的作者是b站的欤小歡
 
 
 ### 💎手动代码 四步 开🔮（💎开头的任选一个就行）
