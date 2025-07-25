@@ -10,6 +10,8 @@
 - termux在本文档和聚合页都有
 - MT管理器在教程第5步（可提前下也可跟着教程步骤下）
 
+
+
 ## 2.搞个魔法（推荐用clash，附教程和公益🔮指路以及绿茶官网
 ### clash安装包：
 https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
@@ -39,11 +41,13 @@ https://linux.do/t/topic/710146
 ### 绿茶（clash不太会就试试这个）：
 https://www.lvcha.org/
 
+
+
 ## 3.Termux和SillyTavern（你的后台+前端）
 - termux软件下载地址：[推荐用118开头的版本](https://github.com/termux/termux-app/releases)
 - APP看网盘，需魔法，看代码
 - 一键和手动都行，各有优势（自行体验）
-## 📌代码框尾部有现复制键
+## 📌代码框尾部有复制键
 
 ### 类脑知识库酒馆搭建教程
 https://wiki.xn--35zx7g.org/
@@ -125,12 +129,13 @@ bash start.sh
 （你设置的默认浏览器是哪个，它就跳转哪个浏览器）
 然后每次重新启动termux时输入⑥就行
 
-
 ### 💎一键代码 详 要🔮（💎开头的任选一个就行）
 [一键代码点击跳转](https://wiki.xn--35zx7g.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?__cf_chl_rt_tk=_T0hYIZ7mJhsSg5zVCVcT4cHaIdVIgH4ko8GNkZKoUE-1751425165-1.0.1.1-JiEiZ79tMh0x4xz1JkEupuFYrlkjccAu6aSPwltfc3Q)
 
 ### 酒馆数字报错（简洁版）
 ![输入图片说明](https://files.catbox.moe/5hmfka.JPG)
+
+
 
 ## 4.MT管理器（设置一下根目录，找文件更方便）
 termux准备工作做好后，来下这个，两个都行，看你自己
@@ -142,6 +147,8 @@ termux准备工作做好后，来下这个，两个都行，看你自己
 ![](https://i.postimg.cc/Yqdxmc96/267-20250722013131.png)
 以后有问题就能来MT管理器的酒馆根目录上找，很方便
 好了，你离成功不远了√
+
+
 
 ## 5.Discord（社区共建，大概是吃饭聚集地）
 吃饭（预设、美化、世界书、插件、角色卡等）可以来这里瞅瞅，需魔法
@@ -166,6 +173,8 @@ https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
 水秋喵劳斯的教程↓
 VPS 部署 ClewdR+酒馆
 https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
+
+
 
 
 
@@ -225,6 +234,7 @@ Linux活跃等级相关：https://linux.do/t/topic/660449
 4. 名称随意写，然后选“永不过期”和“设置无限额度”
 5. “复制”令牌，令牌就是key（密匙），大多数API站是sk-xxx格式（少数不一样）
 6. 复制端点URL，去聊天吧🌷
+
 
 
 # 🍉各种各样的API
