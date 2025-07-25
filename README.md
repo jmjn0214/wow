@@ -248,22 +248,11 @@ https://x666.me/register?aff=AAKD
 原帖指路：
 https://linux.do/t/topic/743859
 
-- Hazel（🐱📜🐋）
-站主🐧：
-240909197
-
 - TB（L🐱🤖）
 通道：
 https://tbai.xin
 公益站额度可蹲：
 https://linux.do/t/topic/683726
-
-- 月亮（🤖🐱📜🐋）
-双站点，可选保底or签到
-🐧👗：
-733012645
-签到站通道：
-http://49.12.130.109:45568/
 
 - LLM（邮🤖🐋）
 通道：
