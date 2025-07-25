@@ -53,25 +53,17 @@ https://www.lvcha.org/
 https://wiki.xn--35zx7g.org/
 很全，手机端，pc端，云端都有√
 
-### 💎一键代码 喵喵（💎开头的任选一个就行）
 推荐跟着这个视频走↓
 【手机本地部署酒馆教程-哔哩哔哩】 
 https://b23.tv/Ma0ovDW
-
-喵喵详细教程：https://sqivg8d05rm.feishu.cn/wiki/EY5TwjuwliCwZpk7Gy7cPGH1nvb
-
+- 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
+- 
 ### 💎一键代码 欤歡 （💎开头的任选一个就行）
 - 两个指令的作者是b站的欤小歡
-- 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
-- 国内源 不开🔮↓
-```
-curl -O https://gitee.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
-```
-- 国外源 开🔮↓
-```
-curl -O https://github.com/Yuhuan-Dev/SillyTavern-Termux/raw/main/Install.sh && chmod +x Install.sh && ./Install.sh
-```
+[yuhuan代码文档](https://gitee.com/print-yuhuan/SillyTavern-Termux/blob/main/README.md)
 
+### 💎一键代码 喵/ClewdR（💎开头的任选一个就行）
+[一键代码点击跳转](https://wiki.xn--35zx7g.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?__cf_chl_rt_tk=_T0hYIZ7mJhsSg5zVCVcT4cHaIdVIgH4ko8GNkZKoUE-1751425165-1.0.1.1-JiEiZ79tMh0x4xz1JkEupuFYrlkjccAu6aSPwltfc3Q)
 
 ### 💎手动代码 四步 开🔮（💎开头的任选一个就行）
 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一步
@@ -124,9 +116,6 @@ bash start.sh
 弄好后会自动跳转酒馆网页界面，这就代表搭建好了√
 （你设置的默认浏览器是哪个，它就跳转哪个浏览器）
 然后每次重新启动termux时输入⑥就行
-
-### 💎一键代码 详 要🔮（💎开头的任选一个就行）
-[一键代码点击跳转](https://wiki.xn--35zx7g.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?__cf_chl_rt_tk=_T0hYIZ7mJhsSg5zVCVcT4cHaIdVIgH4ko8GNkZKoUE-1751425165-1.0.1.1-JiEiZ79tMh0x4xz1JkEupuFYrlkjccAu6aSPwltfc3Q)
 
 ### 酒馆数字报错（简洁版）
 ![输入图片说明](https://files.catbox.moe/5hmfka.JPG)
