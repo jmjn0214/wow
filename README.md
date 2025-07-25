@@ -15,9 +15,26 @@
 https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
 - clash简易教程↓
 ![输入图片说明](https://i.postimg.cc/cCRgzGrg/257-20250719195649.png)
-- 公益魔法在文档靠下↓
-- 注释📌教程💎魔法🔮
-（此条目中第三条）
+## 公益机场🛩/魔法🔮/梯子🪜
+ **推荐在clash使用√** 
+- 江佬：
+直连[点击跳转复制网址后导入URL](https://zh.jikun.fun/share/file/%E6%B1%9F%E6%B1%9F%E5%85%AC%E7%9B%8A%E5%A2%9E%E5%BC%BA%E7%89%88?token=czxrF_PAqHXgwT4czcnSn)
+原帖指路：
+https://linux.do/t/topic/608380
+
+- 188佬
+通道：
+https://250222.xyz/
+原帖指路：
+https://linux.do/t/topic/424429/253
+
+- 梦佬（暂无）
+直接在原帖领取分发的URL：
+https://linux.do/t/topic/710146
+
+- 月佬（跳转序号后复制网址导入URL）：
+[①](https://wanmeiwl3.xyz/gywl/f454fc0cd34faef11783de0a8be4382c?flag=clashmeta) [②](https://yjjd.yunjijd.xyz/api/v1/client/subscribe?token=ee613c4480e152cfee0b6c9dc682999d) [③](https://52pokemon.xz61.cn/api/v1/client/subscribe?token=a7d4ca03debe575cbc363d4c8078acd9) [④](https://qea.278986.xyz/api/v1/client/subscribe?token=c737c4ce20a56d84b559cc4911e93e45) [⑤](http://8.138.34.87:3389/saccess/3c05082fcf2842cca2790bb5dbc2b911)
+附月佬薅🐏教程：[一](https://lcndkivn2rxh.feishu.cn/wiki/XSTGwPXXdiHp0JkabKDc05MLn3b) [二](https://lcndkivn2rxh.feishu.cn/wiki/LyAKwPuB1iFlRYkuEwQcaRHFnAe) [三](https://lcndkivn2rxh.feishu.cn/wiki/Q8DBwVl4UizU5dkdX3scrQ7dnMf)
 
 ### 绿茶（clash不太会就试试这个）：
 https://www.lvcha.org/
@@ -27,6 +44,10 @@ https://www.lvcha.org/
 - APP看网盘，需魔法，看代码
 - 一键和手动都行，各有优势（自行体验）
 ## 📌代码框尾部有现复制键
+
+### 类脑知识库酒馆搭建教程
+https://wiki.xn--35zx7g.org/
+很全，手机端，pc端，云端都有√
 
 ### 💎一键代码 喵喵（💎开头的任选一个就行）
 推荐跟着这个视频走↓
@@ -146,9 +167,7 @@ https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
 VPS 部署 ClewdR+酒馆
 https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
 
-### 类脑知识库酒馆搭建教程
-https://wiki.xn--35zx7g.org/
-很全，手机端，pc端，云端都有√
+
 
 # 关于薅gemini官key的羊毛
 - 条件：Google账号，开🔮
@@ -159,7 +178,10 @@ https://gcnjcayqobfd.feishu.cn/wiki/TMafwyirei4JtxkvonVcQLqgnqg
 ![图](https://i.postimg.cc/GprRHSp1/IMG-20250722-021004.jpg)
 
 
-# 注释📌教程💎魔法🔮
+
+
+
+# 注释📌教程💎
 ## emoji+注释（必看1）
 （文档为手工整理，如有遗漏那就如有）
 - 暂关=暂时关闭新用户注册
@@ -190,28 +212,6 @@ L站最新官方邀请码，进Linux首页点进这个往下翻↓
 （24h没收到邮件的话重新注册试试，换个邮箱试试）
 
 Linux活跃等级相关：https://linux.do/t/topic/660449
-
-
-## 公益机场🛩/魔法🔮/梯子🪜
- **推荐在clash使用√** 
-- 江佬：
-直连[点击跳转复制网址后导入URL](https://zh.jikun.fun/share/file/%E6%B1%9F%E6%B1%9F%E5%85%AC%E7%9B%8A%E5%A2%9E%E5%BC%BA%E7%89%88?token=czxrF_PAqHXgwT4czcnSn)
-原帖指路：
-https://linux.do/t/topic/608380
-
-- 188佬
-通道：
-https://250222.xyz/
-原帖指路：
-https://linux.do/t/topic/424429/253
-
-- 梦佬（暂无）
-直接在原帖领取分发的URL：
-https://linux.do/t/topic/710146
-
-- 月佬（跳转序号后复制网址导入URL）：
-[①](https://wanmeiwl3.xyz/gywl/f454fc0cd34faef11783de0a8be4382c?flag=clashmeta) [②](https://yjjd.yunjijd.xyz/api/v1/client/subscribe?token=ee613c4480e152cfee0b6c9dc682999d) [③](https://52pokemon.xz61.cn/api/v1/client/subscribe?token=a7d4ca03debe575cbc363d4c8078acd9) [④](https://qea.278986.xyz/api/v1/client/subscribe?token=c737c4ce20a56d84b559cc4911e93e45) [⑤](http://8.138.34.87:3389/saccess/3c05082fcf2842cca2790bb5dbc2b911)
-附月佬薅🐏教程：[一](https://lcndkivn2rxh.feishu.cn/wiki/XSTGwPXXdiHp0JkabKDc05MLn3b) [二](https://lcndkivn2rxh.feishu.cn/wiki/LyAKwPuB1iFlRYkuEwQcaRHFnAe) [三](https://lcndkivn2rxh.feishu.cn/wiki/Q8DBwVl4UizU5dkdX3scrQ7dnMf)
 
 ## GitHub注册
 地址：https://github.com/
