@@ -54,10 +54,8 @@ https://www.lvcha.org/
 https://wiki.xn--35zx7g.org/
 很全，手机端，pc端，云端都有√
 
-推荐跟着这个视频走↓
-【手机本地部署酒馆教程-哔哩哔哩】 
 - 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
-- 
+
 ### 💎一键代码 欤歡 （💎开头的任选一个就行）
 - 两个指令的作者是b站的欤小歡
 [yuhuan代码文档](https://gitee.com/print-yuhuan/SillyTavern-Termux/blob/main/README.md)
