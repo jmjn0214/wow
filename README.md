@@ -215,9 +215,9 @@ Linux活跃等级相关：https://linux.do/t/topic/660449
 - 看了：好的往下看↓
 
 ## 端点都是网址第一个“/”后加v1
-### 举个例子↓
-- 网址：https://tbai.xin/console/topup
-- 端点：https://tbai.xin/v1
+### 举个例子（地址是瞎写的）↓
+- 网址：https://abc123.xyz/console/topup
+- 端点：https://abc123.xyz/v1
 
 ## 此文档内推的都是公益性质的
 - 有三个支持赞助，不强制要求
