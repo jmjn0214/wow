@@ -17,6 +17,7 @@
 https://dl.smjcdh.top/dl/cmfa-2.11.14-meta-arm64-v8a-release.apk
 - clash简易教程↓
 ![输入图片说明](https://i.postimg.cc/cCRgzGrg/257-20250719195649.png)
+
 ### 公益机场🛩/魔法🔮/梯子🪜
  **推荐在clash使用√** 
 - 江佬：
@@ -55,7 +56,6 @@ https://wiki.xn--35zx7g.org/
 
 推荐跟着这个视频走↓
 【手机本地部署酒馆教程-哔哩哔哩】 
-https://b23.tv/Ma0ovDW
 - 每次输入完代码点回车键，让代码跑一会儿，等$符号出来后再继续下一条
 - 
 ### 💎一键代码 欤歡 （💎开头的任选一个就行）
@@ -149,17 +149,6 @@ https://discord.gg/elysianhorizon
 https://discord.gg/sillytavern
 
 好了去吃饭吧😘
-
-## 详细版本地酒馆
-这个劳斯的文档挺全面，推推
-https://rrpkxlo5h4.feishu.cn/wiki/Gb7GwSd8AiAW8dkITLRcw8Q5nzh
-
-# 云酒馆搭建
-水秋喵劳斯的教程↓
-VPS 部署 ClewdR+酒馆
-https://sqivg8d05rm.feishu.cn/wiki/RVQ0wka6FiGGWXkc40jc2GHOnyc
-
-
 
 
 
