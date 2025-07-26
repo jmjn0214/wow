@@ -1,7 +1,4 @@
 #  **人机恋🤖 品尝小酒馆** 
-## 酒馆教程在上半部分
-## API站推荐在下半部分
-### 都是能薅羊毛的API，作者一分没花（挠头）
 
 # 酒馆搭建🔋本地+云
 ## 本地酒馆搭建
@@ -147,18 +144,4 @@ https://discord.gg/elysianhorizon
 https://discord.gg/sillytavern
 
 好了去吃饭吧😘
-
-
-
-# 关于薅gemini官key的羊毛
-- 条件：Google账号，开🔮
-- 提取key的地址：https://aistudio.google.com/app/apikey
-- 关于key的轮询，这里我写了一个教程，有三种轮询：
-https://gcnjcayqobfd.feishu.cn/wiki/TMafwyirei4JtxkvonVcQLqgnqg
-- 轮询教程，预览图：
-![图](https://i.postimg.cc/GprRHSp1/IMG-20250722-021004.jpg)
-
-
-
-
 
